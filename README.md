@@ -1,4 +1,5 @@
 Account Service
+https://hyperskill.org/projects/217?track=12
 
 Master the Spring Security module, learn the basics of user authentication and authorization, know how to register security events, and get acquainted with various requirements, such as modern information security standards for web applications.
 
